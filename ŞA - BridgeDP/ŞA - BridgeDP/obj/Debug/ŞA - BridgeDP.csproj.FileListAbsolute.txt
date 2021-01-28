@@ -1,0 +1,13 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\bin\Debug\ŞA - BridgeDP.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\bin\Debug\ŞA - BridgeDP.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\bin\Debug\ŞA - BridgeDP.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\bin\Debug\EntityFramework.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\bin\Debug\EntityFramework.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\obj\Debug\ŞA - BridgeDP.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\obj\Debug\ŞA___BridgeDP.Form1.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\obj\Debug\ŞA___BridgeDP.Properties.Resources.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\obj\Debug\ŞA - BridgeDP.csproj.GenerateResource.Cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\obj\Debug\ŞA - BridgeDP.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - BridgeDP\ŞA - BridgeDP\obj\Debug\ŞA - BridgeDP.pdb
